@@ -6,4 +6,4 @@ def my_each (arr)
   end
 end
 
-my_each([])
+my_each(arr)
